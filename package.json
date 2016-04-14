@@ -1,0 +1,15 @@
+{
+  "name": "example-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "module-a": "file:modules/module-a",
+    "module-b": "file:modules/module-b"
+  }
+}
